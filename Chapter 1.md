@@ -11,7 +11,7 @@ There are two types of methods in an object-orientated language:
                                     y = x.upper()
                                     print(y)
                                     
-**Note** x is not changed when calling the *upper* method 
+**Note**:  x is not changed when calling the *upper* method 
 
 *Mutator* methods change the existing object. The *reverse* method on the list type, for example, changes the order of the elements within a list. 
 
