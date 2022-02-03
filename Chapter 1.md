@@ -26,4 +26,4 @@ All classes contain *accessor* methods. They are used:
 - when we want to retrieve a value tht depends on the value stored in an object.
 - if a class had no accessor methods, we could put values in the object but we could never retrieve them.
 
-Some classes have mutator methods and some don't. *str*, *float, *int* class do not have any mutator methods= class is immutable
+Some classes have mutator methods and some don't. *str*, *float*, *int* class do not have any mutator methods= class is immutable
