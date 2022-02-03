@@ -9,7 +9,7 @@ There are two types of methods in an object-orientated language:
 
                                     x = "hello, goodbye!"
                                     y = x.upper()
-                                    print()
+                                    print(y)
                                     
 **Note** x is not changed when calling the *upper* method 
 
