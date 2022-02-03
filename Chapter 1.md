@@ -21,7 +21,7 @@ There are two types of methods in an object-orientated language:
                                     
                                     
 **Note**: a mutator method cannot be undone once called. The change is therefore permanent until mutated again by some other mutator object.
-All classes contain *accessor* methods. They are used 
+All classes contain *accessor* methods. They are used:
 - when we want to retrieve a value that is stored in an object
 - when we want to retrieve a value tht depends on the value stored in an object.
 - if a class had no accessor methods, we could put values in the object but we could never retrieve them.
